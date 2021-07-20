@@ -16,12 +16,12 @@
 
 ## Usage
 
-    $ python3 main.py --naver_id=NAVER_ID \
-                      --naver_pw=NAVER_PW
-                    --naver_folder=NAVER_FOLDER_NAME
-                    --kakao_id=KAKAO_ID
-                    --kakao_pw=KAKAO_PW
-                    --kakao_folder=KAKAO_FOLDER_NAME
+    $ python3 main.py --naver_id=flyth \
+                      --naver_pw=xoghks13!#
+                    --naver_folder=금강12
+                    --kakao_id=flyth
+                    --kakao_pw=xoghks12
+                    --kakao_folder=금강12
                     --shape=MARKER_SHAPE
                     --color=MARKER_COLOR
                     --os=YOUR_OS
@@ -32,16 +32,16 @@ To see all options, run:
 
 which will print:
 
-    usage: main.py [-h] --naver_id NAVER_ID --naver_pw NAVER_PW --naver_folder NAVER_LIST --kakao_id KAKAO_ID
-               --kakao_pw KAKAO_PW [--kakao_folder KAKAO_FOLDER] [--shape SHAPE] [--color COLOR] --os OS
+    usage: main.py [-h] --naver_id flyth --naver_pw xoghks13!# --naver_folder NAVER_LIST --kakao_id flyth
+               --kakao_pw xoghks12 [--kakao_folder KAKAO_FOLDER] [--shape SHAPE] [--color COLOR] --os OS
 
     optional arguments:
     -h, --help            show this help message and exit
-    --naver_id NAVER_ID
-    --naver_pw NAVER_PW
+    --naver_id flyth
+    --naver_pw xoghks13!#
     --naver_folder NAVER_LIST
-    --kakao_id KAKAO_ID
-    --kakao_pw KAKAO_PW
+    --kakao_id flyth
+    --kakao_pw xoghks12
     --kakao_folder KAKAO_FOLDER
     --shape SHAPE         star, heart, thunder, check, eye, smile, shine, clover, rect, like
     --color COLOR         red, yellow, orange, light green, green, purple, pink
