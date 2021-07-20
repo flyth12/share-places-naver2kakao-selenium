@@ -39,10 +39,10 @@ which will print:
     -h, --help            show this help message and exit
     --naver_id flyth
     --naver_pw xoghks13!#
-    --naver_folder NAVER_LIST
+    --naver_folder 금강12
     --kakao_id flyth
     --kakao_pw xoghks12
-    --kakao_folder KAKAO_FOLDER
+    --kakao_folder 금강12
     --shape SHAPE         star, heart, thunder, check, eye, smile, shine, clover, rect, like
     --color COLOR         red, yellow, orange, light green, green, purple, pink
     --os OS               mac, window
